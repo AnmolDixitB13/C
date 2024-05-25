@@ -92,7 +92,7 @@ Be careful while using array to store votes secured by candidates, especially wi
 indexes. At the beginning of the code itself, decide whether you want to consider 0th index
 of the array also to store the votes or you want to start storing the votes from index no. 1
 in the array, else it might create confusion at the end. In the 1st case, vote[0] will store 
-the votes secured by candidate 1, vote[1] will store the votes stored by candidate 2 and so on.
+the votes secured by candidate 1, vote[1] will store the votes secured by candidate 2 and so on.
 In the 2nd case, vote[1] will store the votes secured by candidate 1 and so on.
 
 According a function can be made which will calculate max value in array, that will be 
