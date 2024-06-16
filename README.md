@@ -8,8 +8,8 @@ As and when I will develop a project/mini project in C, I upload it here for the
 
 Besides this, I might also upload some C programs which aren't any project, but those programs were written by me in C to either:
 
-    i. understand a concept in java and/or
-    ii. to practice a concept in java.
+    i. understand a concept in C and/or
+    ii. to practice a concept in C.
 
 My files may not be that useful to experienced people/laterals in the field of software development, but I anticipate beginners will definitely get help/new ideas from my files as how to go about in their projects.
 
