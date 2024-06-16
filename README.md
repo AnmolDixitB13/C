@@ -6,7 +6,7 @@ As and when I will develop a project/mini project in C, I upload it here for the
     ii. For others to take new ideas about their upcoming/undergoing project(s)
     iii. for my personal records & to keep my work safe & easily accessible.
 
-Besides this, I might also upload some C programs which aren't any project, but those programs were written by me in java to either:
+Besides this, I might also upload some C programs which aren't any project, but those programs were written by me in C to either:
 
     i. understand a concept in java and/or
     ii. to practice a concept in java.
