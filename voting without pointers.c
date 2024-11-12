@@ -1,5 +1,7 @@
 #include<stdio.h>
+
 void end_vote(int ,int ,int ,int ,int ,int ) ;	//declaring the function
+
 void main(void )
 
 {
