@@ -1,6 +1,8 @@
 
 #include<stdio.h>
+
 void removeMyNum(int [], int, int) ;
+
 void main()
 {
     int a[] = {5, 3, 5, 5, 5, 8, 9, 6, 7, 5, 100} ;
